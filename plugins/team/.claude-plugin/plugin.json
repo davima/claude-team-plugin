@@ -1,0 +1,5 @@
+{
+  "name": "team",
+  "description": "Sparring-partner slash commands for the build cycle: PM, Principal Engineer, QA, Coder, Code Reviewer. Each command picks up project-specific context from .claude/personas/<role>.md when present.",
+  "version": "0.1.0"
+}
