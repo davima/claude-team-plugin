@@ -47,7 +47,7 @@ That's it — no frontmatter, no slash-command magic. Plain markdown that the pl
 ### First time on a new machine
 
 ```bash
-git clone <repo-url> ~/projects/claude-team-plugin
+git clone https://github.com/davima/claude-team-plugin.git ~/projects/claude-team-plugin
 ```
 
 Then in Claude Code:
